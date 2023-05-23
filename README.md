@@ -1,3 +1,3 @@
 # first-repository
 첫 저장소
-[gist]([(https://github.com/useunmn))])
+[짜잔](https://www.example.com)
